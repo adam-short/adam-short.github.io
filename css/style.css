@@ -79,11 +79,12 @@ a:visited {
   }
 
   .middle-col {
-    width: 90%;
+    width: 70%;
   }
 
   p {
-    font-size: 14px;
+    margin-top: 10px;
+    font-size: 12px;
   }
 
   a {
