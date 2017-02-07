@@ -44,7 +44,7 @@ p, a {
 p {
   font-size: 14px;
   margin-top: 45px;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 a {
@@ -79,11 +79,11 @@ a:visited {
   }
 
   .middle-col {
-    width: 85%;
+    width: 90%;
   }
 
   p {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   a {
