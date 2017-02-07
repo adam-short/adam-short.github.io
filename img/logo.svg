@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="493px" height="106px" viewBox="0 0 493 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-257.000000, -330.000000)">
+            <g id="Group" transform="translate(259.000000, 301.000000)">
+                <path d="M45.9066203,31.3235671 L45.9066203,31 L45.2358582,31 L0.263236458,131.804404 L0,132.394438 L1.02594722,133 L1.28918368,132.409966 L45.7488318,32.7553723 L90.20848,132.409966 L90.4717165,133 L91.4976637,132.394438 L91.2344272,131.804404 L46.6605743,31.893825 L46.2557405,31.1767937 L45.9066203,31.3235671 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M301.408957,31.3235671 L301.408957,31 L300.738195,31 L255.765573,131.804404 L255.502336,132.394438 L256.528284,133 L256.79152,132.409966 L301.251168,32.7553723 L345.710816,132.409966 L345.974053,133 L347,132.394438 L346.736764,131.804404 L302.162911,31.893825 L301.758077,31.1767937 L301.408957,31.3235671 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <text id="D" font-family="Raleway-Thin, Raleway" font-size="144" font-style="condensed" font-weight="300" fill="#FFFFFF">
+                    <tspan x="122.308" y="135">D</tspan>
+                </text>
+                <text id="M" font-family="Raleway-Thin, Raleway" font-size="144" font-style="condensed" font-weight="300" fill="#FFFFFF">
+                    <tspan x="377.854336" y="135">M</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
