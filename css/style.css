@@ -55,7 +55,14 @@ a {
   padding: 3px 0px;
   border-bottom: 1px solid white;
   text-decoration: none;
-  margin-left: 90%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
 
 .middle-col {
